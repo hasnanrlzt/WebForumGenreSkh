@@ -993,9 +993,9 @@ footer ul li {
   .place__container {
     gap: 3rem 2rem;
   }
-  .place__card, .place__img {
+  /* .place__card, .place__img {
     height: 263px;
-  }
+  } */
   .footer__content {
     justify-items: center;
   }
